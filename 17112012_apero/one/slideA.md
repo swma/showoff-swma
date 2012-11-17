@@ -108,7 +108,7 @@
 * Le 29 novembre, soirée de prélancement et expo design
 * à [Marseille Innovation](http://www.marseille-innov.org/)
 *   
-* Et le 30 novembre à Euromed Management pour…
+* Et le 30 novembre à [Euromed Management](http://www.euromed-management.com/) pour…
 
 <!SLIDE bullets transition=scrollUp>
 
