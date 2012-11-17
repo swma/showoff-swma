@@ -119,7 +119,7 @@
 # Inscription
 * [swma4.eventbrite.com](http://swma4.eventbrite.com/)
 * Code réduc
-* Voir pour mettre 10 codes promos @antoine
+* SWBOATE
 
 <!SLIDE bullets transition=scrollUp>
 
